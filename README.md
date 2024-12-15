@@ -1,6 +1,6 @@
 # aic
 
-~START HERE~
+= START HERE =
 
 ## Test Section to Discuss
 
